@@ -1,8 +1,7 @@
 ### i´m Becoming in Frontend Developer
 
 
-- 🔭 Frontend Developer with knowledge of HTML, CSS, SASS, Bootstrap, CSS Grid, Flexbox, Javascript, React and passion for learn 
-constantly about new technologies 
+- 🔭 I am a person who love learn constantly about new technologies, looking for solutions and do my best for build a new apps in React
 
 
 - ⚡ **Skills and Knowledge:**
