@@ -1,7 +1,8 @@
 ### i´m Becoming in Frontend Developer
 
 
-- 🔭 I’m currently working on Sophos Solutions in IT Area since 3 years ago
+- 🔭 Frontend Developer with knowledge of HTML, CSS, SASS, Bootstrap, CSS Grid, Flexbox, Javascript, React and passion for learn 
+constantly about new technologies 
 
 
 - ⚡ **Skills and Knowledge:**
